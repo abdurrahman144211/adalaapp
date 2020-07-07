@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/adalaapp/about", {data:[],fetch:[],mutations:void 0});
